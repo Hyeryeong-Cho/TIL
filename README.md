@@ -17,5 +17,5 @@ Today I learn
 ### 5. 머신러닝 수학공부
 
 
-### 6. [Programmers 문제 풀기](https://github.com/Hyeryeong-Cho/TIL/tree/main/PYTHON/Programmers)
+### [6. Programmers 문제 풀기](https://github.com/Hyeryeong-Cho/TIL/tree/main/PYTHON/Programmers)
 - [하루 한개씩 풀기](https://www.notion.so/mongmang/1fcd5e1fc207491eaa111496abb867ea?v=07bb2219b7534930952ac06b60f3b4b4)
