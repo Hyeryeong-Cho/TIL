@@ -4,7 +4,7 @@ Today I learn
 ### 1.  Python
 -  [python 공부](https://www.notion.so/mongmang/PYTHON-0a1fd0559c7f4215b30774686ff91ee2)
 
-### 2. Machine Learning & Deep Learning
+### [2. Machine Learning & Deep Learning](https://github.com/Hyeryeong-Cho/TIL/tree/main/ML)
 - [머신러닝](https://www.notion.so/mongmang/086a85d9614d407e805e511c0cd51c2e)
 
 ### 2. crawling
