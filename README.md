@@ -3,7 +3,7 @@ Today I learn
 
 ### 1.  Python
 -  [python 공부](https://www.notion.so/mongmang/PYTHON-0a1fd0559c7f4215b30774686ff91ee2)
--  [programmers 문제 풀기](https://github.com/Hyeryeong-Cho/TIL/tree/main/PYTHON/Programmers)
+-  [programmers 문제 풀기](https://github.com/Hyeryeong-Cho/TIL/tree/main/PYTHON/Programmers)  
    [programmers notion](https://www.notion.so/mongmang/1fcd5e1fc207491eaa111496abb867ea?v=07bb2219b7534930952ac06b60f3b4b4)
 
 ### [2. Machine Learning & Deep Learning](https://github.com/Hyeryeong-Cho/TIL/tree/main/ML)
